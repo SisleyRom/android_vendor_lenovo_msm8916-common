@@ -148,9 +148,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/msm8916-common/proprietary/vendor/lib/libmmcamera_hdr_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_hdr_lib.so \
     vendor/lenovo/msm8916-common/proprietary/vendor/lib/libmmcamera_imglib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_imglib.so \
     vendor/lenovo/msm8916-common/proprietary/vendor/lib/libmmcamera_juchen_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_juchen_eeprom.so \
-    vendor/lenovo/msm8916-common/proprietary/vendor/lib/libmmcamera_ofilm_oty5f03_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_ofilm_oty5f03_eeprom.so \
     vendor/lenovo/msm8916-common/proprietary/vendor/lib/libmmcamera_ov13850_ofilm_l13850a60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_ov13850_ofilm_l13850a60.so \
-    vendor/lenovo/msm8916-common/proprietary/vendor/lib/libmmcamera_ov13850_sisleyl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_ov13850_sisleyl.so \
     vendor/lenovo/msm8916-common/proprietary/vendor/lib/libmmcamera_ov13850.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_ov13850.so \
     vendor/lenovo/msm8916-common/proprietary/vendor/lib/libmmcamera_sunny_p12v01m_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_sunny_p12v01m_eeprom.so \
     vendor/lenovo/msm8916-common/proprietary/vendor/lib/libmmcamera_sunny_p13v01n_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_sunny_p13v01n_eeprom.so \
